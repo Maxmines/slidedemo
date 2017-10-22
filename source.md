@@ -1,59 +1,42 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 黄杨 (1700011776@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/Maxmines
 
 ---
 
-## 第一部分
-
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+## 第一部分，基本信息
+身高175cm，体格偏瘦
+戴蓝色眼镜的宅男一枚
 
 ---
 
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+## 第二部分，学业经历
+高中：就读于湖南师大附中梅溪湖中学，是学校的第一届高中生。
+现在：就读于北京大学，是化院17级新生。
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 第三部分，兴趣爱好
+体育：1.最喜欢足球，现在是化院足球队的成员，踢右后卫。
+2.喜欢足球，所以顺带着喜欢跑步。
+3.也喜欢羽毛球，不过技术一般。
+其他方面:1.喜欢数独，玩数独使我内心平静。
+2.高中时沉迷狼人杀，现在也渴望玩狼人杀，只是时间不够。
 
+---
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+## 附一张数独的图
 
-Display formula:
+https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2935490268,2808180721&fm=27&gp=0.jpg
 
-$$e^{i\pi} + 1 = 0$$
+我认为数独是一个很好的小游戏，既可以锻炼大脑，又可以休闲。
 
 ---
 
